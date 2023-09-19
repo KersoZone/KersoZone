@@ -1,0 +1,5 @@
+- KERSOZONE.PL STUDIO
+- 📶Website: kersozone.pl
+-           Info
+- 📧Email: kerso@kersozone.pl
+- 📢Discord: https://discord.gg/MJV3Md5HZQ
