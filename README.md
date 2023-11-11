@@ -1,5 +1,5 @@
 - KERSOZONE.PL STUDIO
-- ********DEV*******
+
 -           Info
 - 📧Email: info@kersozone.pl
 - 📢Discord: https://discord.gg/MJV3Md5HZQ
